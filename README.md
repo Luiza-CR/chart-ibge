@@ -1,11 +1,6 @@
 ## 📊 Brazilian Population Projection by Age Group (2000–2070)
 
 Este projeto disponibiliza um **notebook interativo em Google Colab** para visualizar a projeção da população brasileira, segmentada por faixas etárias, com base nas estimativas do IBGE – Revisão 2024.
-
-> ✅ Totalmente automatizado
-> ✅ Sem necessidade de uploads manuais
-> ✅ Acessível a qualquer pessoa via link público
-
 ---
 
 ### 🧠 Objetivo
@@ -24,12 +19,7 @@ Com ênfase especial nos marcos de **2025, 2030, 2040 e 2050**.
 
 * `projecoes_2024_tab3_grupos_etarios_especificos.xlsx`: Dados populacionais oficiais extraídos do site do IBGE
 * `colab_populacao_brasil.ipynb`: Notebook com o código pronto para rodar no Google Colab
-* Gráfico gerado com:
-
-  * Linhas com estilos distintos para acessibilidade
-  * Anotações por faixa etária
-  * Quadro lateral com total da população por década
-
+  
 ---
 
 ### 🚀 Como usar
@@ -43,14 +33,6 @@ Com ênfase especial nos marcos de **2025, 2030, 2040 e 2050**.
    * Baixar automaticamente o arquivo Excel a partir do repositório
    * Processar e transformar os dados
    * Gerar um gráfico interativo com destaque para os marcos demográficos
-
----
-
-### 📊 Exemplo do Gráfico
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/imagens/exemplo_grafico.png" width="90%">
-
-> 🔍 Observação: o gráfico é totalmente adaptado para apresentações, artigos, ou análise pública.
 
 ---
 
